@@ -551,8 +551,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 2.864275, y: 1, z: 2.3087232}
-  m_Center: {x: 1.1842902, y: 0, z: -0.34577692}
+  m_Size: {x: 2.9486601, y: 1, z: 2.3087232}
+  m_Center: {x: 1.2264694, y: 0, z: -0.34577116}
 --- !u!23 &287424288
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1620,7 +1620,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: '0
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2509,7 +2511,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: '0
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3868,7 +3872,7 @@ Transform:
   m_GameObject: {fileID: 1634741197}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.17558114, w: 0.984465}
-  m_LocalPosition: {x: -0.087, y: 2.599, z: -3.954}
+  m_LocalPosition: {x: -0.087, y: 1.29, z: -4.318}
   m_LocalScale: {x: 0.23102, y: 0.23102, z: 0.23102}
   m_ConstrainProportionsScale: 0
   m_Children: []

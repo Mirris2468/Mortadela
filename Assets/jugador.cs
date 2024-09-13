@@ -86,14 +86,4 @@ public class Movement : MonoBehaviour
             UpdateScore();
         }
     }
-
-    private void OnTriggerExit(Collider other)
-    {
-
-    }
-
-    private void OnTriggerStay(Collider other)
-    {
-
-    }
 }
